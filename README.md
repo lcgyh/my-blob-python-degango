@@ -10,5 +10,7 @@ python3 manage.py createsuperuser //创建admin 超级用户
 
 详细教程：
 https://www.jianshu.com/p/9fa923e8523d
+
+
 慕课网视频教程：
 https://www.imooc.com/learn/790
